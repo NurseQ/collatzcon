@@ -1,4 +1,4 @@
-# this code is an example of the Collatz conjecture
+# this code is an example of the Collatz conjecture using python
 
 # n is the number to apply the conjecture on
 n = 20
